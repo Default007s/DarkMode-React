@@ -1,0 +1,21 @@
+.contentContainer{
+    color: white;
+    padding-top: 10px;
+    padding-left: 50px;
+    width: 100vw;
+    height: 100vh;
+}
+
+.contentContainer h1{
+    font-size: 50px;
+}
+
+.contentContainer ul li {
+    font-size: 20px;
+    line-height: 50px;
+}
+
+.contentContainer ul li::marker{
+    font-size: 1.3em;
+    color: #61dafb;
+}
